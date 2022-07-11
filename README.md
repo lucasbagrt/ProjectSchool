@@ -1,29 +1,10 @@
-# Project School - For Udemy Course
+# Project School 
 
-## Project setup
-```
-npm install
-```
+Projeto realizado em um curso da udemy
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Tecs
+<ul>
+  <li>.NET Core 3.0</li>
+  <li>EF CORE</li>
+  <li>Vue.js</li>  
+</ul>
